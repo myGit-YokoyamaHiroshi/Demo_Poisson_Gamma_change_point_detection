@@ -2,6 +2,11 @@
 Python implementation of Possion Gamma change point detection <br>
 This script is Python implemented version of : https://github.com/sammy-suyama/MLBlog/blob/master/src/change_point.jl 
 
+# Example of the results
+The code generating the following figure is found in test_poisson_gamma_vbinf.py.
+
+<img src="./figures/probvsuser.png" width=80%>
+
 # Requirements<br>
 &ensp; Operation has been confirmed only under the following environment. <br>
 &ensp;&ensp; - OS: Windows 10 64bit, Ubuntu 18.04.5 LTS <br>
